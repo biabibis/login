@@ -1,0 +1,19 @@
+#boladona{
+    border: 5px outset pink;
+    background-color: white;
+    text-align: center;
+    height: 700px;
+    width: 400px;
+
+    
+}
+
+p{
+    text-align: left;
+    font-size: 20px;
+    font: bold;
+}
+
+button{
+    color:rgb(219, 21, 54)
+}
